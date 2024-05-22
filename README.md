@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarionMorgan
 - 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning mobile application using ionic and angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open projects dealing with python, html, or javascript.
 - 📫 How to reach me garmorgan14@gmail.com
 
